@@ -10,12 +10,8 @@
 
 ## Содержание env-файла:
 ```sh
-DB_ENGINE=django.db.backends.postgresql
-DB_NAME=postgres
 POSTGRES_USER=...
 POSTGRES_PASSWORD=...
-DB_HOST=db
-DB_PORT=5432
 ```
 ## Установка:
 Клонировать репозиторий:
